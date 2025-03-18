@@ -79,17 +79,22 @@ npm start
 Your app will be available at: http://localhost:3000
 
 🎨 Screenshots
-Landing Page
 
-Upload Photo
+![Screenshot 2025-03-18 115001](https://github.com/user-attachments/assets/b288b8ca-22b2-4044-ab49-d45c399dd248)
 
-Photo Gallery
+![image](https://github.com/user-attachments/assets/977bf1be-fa91-4752-a9ac-429a0633f705)
+
+
+![image](https://github.com/user-attachments/assets/0a11035f-9855-41e5-8004-d0f06a7c31e4)
+
 
 📢 API Endpoints
+
 Method	Endpoint	Description
 POST	/api/photos/	Upload a new photo
 GET	/api/photos/{album}	Get photos from an album
 GET	/api/search?query=	Search photos
 DELETE	/api/photos/{id}	Delete a photo
-🏆 Extra Features
+🏆 Extra Features:
+
 ✔ AI-based Tagging (Future Update)
